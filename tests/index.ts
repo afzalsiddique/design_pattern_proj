@@ -5,6 +5,7 @@
 describe("index",()=>{
     it("should say 'hello world'",()=>{
         console.log("hello world");
+        // does not work
         // assert.ok()
     })
 })

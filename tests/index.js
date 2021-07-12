@@ -4,6 +4,7 @@
 describe("index", function () {
     it("should say 'hello world'", function () {
         console.log("hello world");
+        // does not work
         // assert.ok()
     });
 });
